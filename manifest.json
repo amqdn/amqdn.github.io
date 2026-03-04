@@ -1,11 +1,11 @@
 {
-    "name": "amqdn",
+    "name": "Andrew Minh Nguyen | Portfolio",
     "short_name": "amdqn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "amqdn | Portfolio",
+    "description": "Andrew Minh Nguyen | Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
